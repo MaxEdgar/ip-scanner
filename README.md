@@ -37,7 +37,7 @@
 <p>Replace <code>192.168.1.1/24</code> with the IP range you want to scan.</p>
 
 <h2>License</h2>
-<p>This project is licensed under the MIT License. See the LICENSE file for details.</p>
+<p>This project is licensed under the GPL License. See the LICENSE file for details.</p>
 
 </body>
 </html>
